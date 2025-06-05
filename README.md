@@ -57,7 +57,7 @@ Each component is designed for **robustness**, **efficiency**, and **real-world 
 
 Our time series uses real daily minimum temperature recordings from Melbourne, providing authentic patterns for model validation:
 
-![Melbourne Temperature Dataset](melbourne_temperature_series.png)
+![Generated Time Series](generated-time-series.png)
 
 ### **Data Characteristics:**
 - **Source:** Daily Minimum Temperatures in Melbourne (1981-1990)
